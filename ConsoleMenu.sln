@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMenuPresentation", "BibliotheekMetMenu\ConsoleMenuPresentation.csproj", "{38BB9628-6643-40A2-A2DA-2E92E6DE5C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMenuLib", "ConsoleMenuLib\ConsoleMenuLib.csproj", "{83DADABC-EFED-4EF2-8EF6-1A70E2673291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BB9628-6643-40A2-A2DA-2E92E6DE5C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BB9628-6643-40A2-A2DA-2E92E6DE5C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BB9628-6643-40A2-A2DA-2E92E6DE5C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BB9628-6643-40A2-A2DA-2E92E6DE5C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83DADABC-EFED-4EF2-8EF6-1A70E2673291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DADABC-EFED-4EF2-8EF6-1A70E2673291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DADABC-EFED-4EF2-8EF6-1A70E2673291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DADABC-EFED-4EF2-8EF6-1A70E2673291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BF3C42C-A77C-4C6B-AF06-6E75BCAC8B85}
+	EndGlobalSection
+EndGlobal
